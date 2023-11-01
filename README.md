@@ -1,6 +1,6 @@
 
 # ManageStudentsPython
-
+My name is Ho Minh Khoa Nguyen, a high school student in the city of Danang, Vietnam.
 I wrote this piece of code as my first personal projects. It is a application where teachers can manage there students profile (name, class, birthplace and scores). This project may not be good and the code may be inefficient to run, but this is the best I can do at the age of 15.
 
 
